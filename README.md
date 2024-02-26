@@ -9,12 +9,13 @@ The objective of this project is to analyze sales data and provide visualization
 The dataset used in this project consists of sales data, including information such as product categories, sales amounts, shipping modes, regions, and order dates. It provides a comprehensive view of the sales activities over a certain period.
 We will be using Superstore.xlsx Dataset attached.
 
+![Screenshot 2024-02-26 153712](https://github.com/mbithesss/Sales-Dashboard-Zindua/assets/60656360/eaba6729-edd6-487c-9c81-bbcb3dcf2449)
+
 ### Analysis Tasks
-* Compared Profit per Category
+* Compare Sales per Category
 * Total sales amount for the given period.
-* Compared Sales by Ship Mode
-* Filtered Sales by Given Range
+* Compare Sales by Ship Mode
 * Comparison of Profit and Sales by Region
 * Visual Showing Total Profit
 * Visual Showing Total Quantity
-* Comparison of Profit and Sales by Order Date
+
