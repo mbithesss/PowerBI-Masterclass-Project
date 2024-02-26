@@ -7,7 +7,7 @@ The objective of this project is to analyze sales data and provide visualization
 
 ### Dataset Description
 The dataset used in this project consists of sales data, including information such as product categories, sales amounts, shipping modes, regions, and order dates. It provides a comprehensive view of the sales activities over a certain period.
-We will be using superstore.xlsx Dataset attached.
+We will be using Superstore.xlsx Dataset attached.
 
 ### Analysis Tasks
 * Compared Profit per Category
